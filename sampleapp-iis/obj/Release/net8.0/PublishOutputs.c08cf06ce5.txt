@@ -1,0 +1,7 @@
+C:\sampleapp-iis\sampleapp-iis\publish\sampleapp-iis.exe
+C:\sampleapp-iis\sampleapp-iis\publish\appsettings.Development.json
+C:\sampleapp-iis\sampleapp-iis\publish\appsettings.json
+C:\sampleapp-iis\sampleapp-iis\publish\sampleapp-iis.dll
+C:\sampleapp-iis\sampleapp-iis\publish\sampleapp-iis.deps.json
+C:\sampleapp-iis\sampleapp-iis\publish\sampleapp-iis.runtimeconfig.json
+C:\sampleapp-iis\sampleapp-iis\publish\sampleapp-iis.pdb
